@@ -17,4 +17,4 @@ jobs:
               with:
                 args: >
                     -Dsonar.organization=kodermon
-                    -Dsonar.projectKey=kodermon
+                    -Dsonar.projectKey=node-app-sonarcloud
